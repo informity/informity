@@ -51,10 +51,10 @@ Your data already contains the answers. RAG pipelines, NL-to-SQL, semantic searc
 
 ## Open source
 
-| Repo | Description |
-|------|-------------|
-| [**promptcue**](https://github.com/informity/promptcue) | Prompt intent classifier for LLMs. Reduces token waste and guards guardrails before requests reach your model. `Python` |
-| [**thinkstrip**](https://github.com/informity/thinkstrip) | Strips thinking blocks from LLM response streams in real time. Works with Claude, Gemini, and others. `Python` |
+| Name | Language | Description |
+|------|----------|-------------|
+| [**promptcue**](https://github.com/informity/promptcue) | `Python` | Prompt intent classifier for LLMs. Reduces token waste and guards guardrails before requests reach your model. |
+| [**thinkstrip**](https://github.com/informity/thinkstrip) | `Python` | Strips thinking blocks from LLM response streams in real time. Works with Claude, Gemini, and others. |
 
 ---
 
