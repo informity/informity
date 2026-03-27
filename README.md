@@ -4,10 +4,10 @@
 
 With 20 years of engineering experience, we help businesses build AWS infrastructure that's secure, cost-efficient, and ready for AI. No hand-waving — just reliable systems and a team that stays accountable.
 
-[![Website](https://img.shields.io/badge/informity.com-ff6b1a?style=flat-square&logo=googlechrome&logoColor=black)](https://www.informity.com)
-[![Email](https://img.shields.io/badge/contact@informity.com-ff6b1a?style=flat-square&logo=gmail&logoColor=black)](mailto:contact@informity.com)
-[![Phone](https://img.shields.io/badge/(858)%20256--5605-111111?style=flat-square&logoColor=888888)](tel:+18582565605)
-[![Location](https://img.shields.io/badge/Escondido%2C%20CA-111111?style=flat-square&logoColor=888888)](https://www.informity.com)
+[![Website](https://img.shields.io/badge/informity.com-ff6b1a?style=flat&logo=googlechrome&logoColor=black)](https://www.informity.com)
+[![Email](https://img.shields.io/badge/contact@informity.com-ff6b1a?style=flat&logo=gmail&logoColor=black)](mailto:contact@informity.com)
+[![Phone](https://img.shields.io/badge/(858)%20256--5605-111111?style=flat&logoColor=888888)](tel:+18582565605)
+[![Location](https://img.shields.io/badge/Escondido%2C%20CA-111111?style=flat&logoColor=888888)](https://www.informity.com)
 
 ---
 
