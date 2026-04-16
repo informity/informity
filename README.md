@@ -53,6 +53,7 @@ Your data already contains the answers. RAG pipelines, NL-to-SQL, semantic searc
 
 | Name | Language | Description |
 |------|----------|-------------|
+| [**informity-ai**](https://github.com/informity/informity-ai) | `Python` + `TypeScript` | Local-first document intelligence assistant with RAG, diagnostics, and model evaluation workflows. |
 | [**promptcue**](https://github.com/informity/promptcue) | `Python` | Prompt intent classifier for LLMs. Reduces token waste and guards guardrails before requests reach your model. |
 | [**thinkstrip**](https://github.com/informity/thinkstrip) | `Python` | Strips thinking blocks from LLM response streams in real time. Works with Claude, Gemini, and others. |
 
